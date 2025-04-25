@@ -22,18 +22,42 @@ TypeScript - Type-safe JavaScript
 React Hooks - State and lifecycle management
 
 Tailwind CSS - Utility-first CSS framework
-## Getting Started
 
-First, run the development server:
+# 🛍️ Next.js E-Commerce Store
+
+A modern e-commerce store built with Next.js, TypeScript, and React Hooks.
+
+## ✅ Features
+
+- [x] Product catalog display
+- [] Shopping cart functionality
+- [] User authentication
+- [x] Responsive design
+- [x] TypeScript support
+- [] Persistent cart (localStorage)
+- [ ] Product search
+- [ ] Product categories/filters
+- [ ] Checkout process
+- [ ] Order history
+- [ ] Admin dashboard
+
+## 🛠 Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Tailwind CSS](https://tailwindcss.com/) (optional)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [x] Node.js (v14 or later)
+- [x] npm or yarn
+
+### Installation
 
 ```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/your-username/nextjs-ecommerce-store.git
+cd nextjs-ecommerce-store
+npm install
