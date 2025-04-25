@@ -1,33 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# E-commerce applciation
+A modern e-commerce store built with Next.js, TypeScript, and React Hooks. This application features product listings, shopping cart functionality, and user authentication.
 
+Features
+Product Catalog: Display products with images, descriptions, and prices
+
+Shopping Cart: Add/remove items, update quantities, and view cart total
+
+User Authentication: Login/logout functionality
+
+Responsive Design: Works on all device sizes
+
+Type Safety: Full TypeScript support
+
+Persistent Cart: Cart items saved to localStorage
+
+Technologies Used
+Next.js - React framework for server-side rendering
+
+TypeScript - Type-safe JavaScript
+
+React Hooks - State and lifecycle management
+
+Tailwind CSS - Utility-first CSS framework
 ## Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
