@@ -1,31 +1,5 @@
-# E-commerce applciation
-A modern e-commerce store built with Next.js, TypeScript, and React Hooks. This application features product listings, shopping cart functionality, and user authentication.
-
-Features
-Product Catalog: Display products with images, descriptions, and prices
-
-Shopping Cart: Add/remove items, update quantities, and view cart total
-
-User Authentication: Login/logout functionality
-
-Responsive Design: Works on all device sizes
-
-Type Safety: Full TypeScript support
-
-Persistent Cart: Cart items saved to localStorage
-
-Technologies Used
-Next.js - React framework for server-side rendering
-
-TypeScript - Type-safe JavaScript
-
-React Hooks - State and lifecycle management
-
-Tailwind CSS - Utility-first CSS framework
-
 # 🛍️ Next.js E-Commerce Store
-
-A modern e-commerce store built with Next.js, TypeScript, and React Hooks.
+A modern e-commerce store built with Next.js, TypeScript, and React Hooks. This application features product listings, shopping cart functionality, and user authentication.
 
 ## ✅ Features
 
