@@ -8,9 +8,6 @@ export default function Home() {
       <main>
         <StorePage/>
       </main>
-      <footer className="text-center m-5">
-        @2023 Your Company. All rights reserved.
-      </footer>
     </div>
   );
 }

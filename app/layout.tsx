@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono, Lobster } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/navbar/NavBar";
+import Footer from "./components/footer/Footer";
 const lobster = Lobster({
   variable: "--font-lobster",
   subsets: ["latin"],
@@ -40,6 +41,7 @@ export default function RootLayout({
       >
         <Navbar/>
         <main>{children}</main>
+        <footer><Footer/></footer>
       </body>
     </html>
   );
